@@ -16,7 +16,7 @@ body {
 }
 
 #root {
-  background: salmon;
+  background: rgb(52, 52, 53);
   position: fixed;
   overflow: hidden;
   width: 100%;
@@ -60,7 +60,7 @@ img {
 
 button[aria-label="previous"],
 button[aria-label="next"] {
-  background: salmon !important;
+  background: rgb(185, 159, 240) !important;
   color: black !important;
 }
 
